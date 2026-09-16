@@ -1,16 +1,14 @@
-## Hi there 👋
+## How's your day going 👋
 
-<!--
-**anhtuanng04050405/anhtuanng04050405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\- 👨‍🎓 Currently, I'm a freshman at Hanoi University of Science and Technology (HUST).<br/>
+\- 🎯 My major is **Computer Science**, and my dream is to become a **Mobile Developer**.<br/>
+\- 💡 I have knowledge of: (`Android: Java/Kotlin` , `Web Backend (Server Side): Java Servlet/JSP` , `C/C++`, `Git/GitHub`)
 
-Here are some ideas to get you started:
+\- 🔗 **How to contact me:** </br>
+>Facebook: https://facebook.com/nat4528
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Email: [anhtuanng04050405@gmail.com](mailto:anhtuanng04050405@gmail.com) , [Tuan.NA2617744@sis.hust.edu.vn](mailto:Tuan.NA2617744@sis.hust.edu.vn)
+
+>Zalo: https://zalo.me/0818103265
+
+*"Happiness is not in the destination, but in every step we take."* 💖
