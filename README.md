@@ -1,8 +1,8 @@
 ## How's your day going 👋
 
 \- 👨‍🎓 Currently, I'm a freshman at Hanoi University of Science and Technology (HUST).<br/>
-\- 🎯 My major is **Computer Science**, and my dream is to become a **Mobile Developer**.<br/>
-\- 💡 I have knowledge of: (`Android: Java/Kotlin` , `Web Backend (Server Side): Java Servlet/JSP` , `C/C++`, `Git/GitHub`)
+\- 🎯 My major is **Computer Science**, and my dream is to become a **Fullstack Engineer Mobile**.<br/>
+\- 💡 I have knowledge of: (`Android: Java/Kotlin` , `Web Backend (Server Side): Java Servlet/JSP` , `C/C++`, `Git/GitHub`).
 
 \- 🔗 **How to contact me:** </br>
 >Facebook: https://facebook.com/nat4528
