@@ -13,3 +13,11 @@
 >Zalo: https://zalo.me/0818103265
 
 *"Happiness is not in the destination, but in every step we take."* 💖
+
+<div align="center">
+  <img
+    src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
+    alt="dev banner"
+    width="100%"
+  />
+</div>
