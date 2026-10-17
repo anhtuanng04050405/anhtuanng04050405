@@ -2,7 +2,7 @@
 
 \- 👨‍🎓 Currently, I'm a freshman at Hanoi University of Science and Technology (HUST).<br/>
 \- 🎯 My major is **Computer Science**, and my dream is to become a **Fullstack Mobile Developer**.<br/>
-\- 💡 I have knowledge of: (`Android: Java/Kotlin` , `Web Backend (Server Side): Java Servlet/JSP` , `Python`, `C/C++`, `Java`, `Kotlin`).<br/>
+\- 💡 I have knowledge of: (`Android: Java/Kotlin` , `Web Backend (Server Side): Java Servlet/JSP` , `Python`, `C/C++`, `Java`, `Kotlin`, `Dart`).<br/>
 \- 🕵️ I have skills of: (`Git/GitHub` , `DSA`, `OOP`).
 
 \- 🔗 **How to contact me:** </br>
